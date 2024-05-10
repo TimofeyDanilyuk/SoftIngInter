@@ -6,4 +6,4 @@
 ## Задача №1
 Написать консольное приложение, которое выводит фамилию и имя пользователя с id 10, данные взять из публичного [API](https://reqres.in).
 
-Для запуска программы переходим по пути `SoftIngInter\bin\Debug` и запускаем файл `SoftIngInter.exe`![Запуск](https://github.com/timbilding/image/image.png)
+Для запуска программы переходим по пути `SoftIngInter\bin\Debug` и запускаем файл `SoftIngInter.exe`![Запуск](image.png)
