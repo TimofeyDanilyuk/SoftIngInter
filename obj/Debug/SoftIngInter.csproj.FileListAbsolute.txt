@@ -1,0 +1,10 @@
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\bin\Debug\SoftIngInter.exe.config
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\bin\Debug\SoftIngInter.exe
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\bin\Debug\SoftIngInter.pdb
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\obj\Debug\SoftIngInter.csproj.AssemblyReference.cache
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\obj\Debug\SoftIngInter.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\obj\Debug\SoftIngI.409D22BB.Up2Date
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\obj\Debug\SoftIngInter.exe
+C:\Users\Ryzen Nitro\Documents\SoftIngInter\obj\Debug\SoftIngInter.pdb
